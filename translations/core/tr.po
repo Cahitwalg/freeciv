@@ -4484,18 +4484,18 @@ msgstr "Freeciv"
 #: client/gui-gtk-4.0/gui_main.c:1330 client/gui-gtk-4.0/gui_main.c:1338
 #: client/gui-qt/pages.cpp:750 client/gui-sdl2/mapctrl.c:1688
 msgid "Turn Done"
-msgstr "Sırayı Geçir"
+msgstr "Turu Atla"
 
 #: client/gui-gtk-3.22/gui_main.c:1416 client/gui-gtk-4.0/gui_main.c:1338
 #: client/gui-sdl2/mapctrl.c:1688 client/gui-sdl2/mapview.c:950
 msgid "Shift+Return"
-msgstr "Shift+Return"
+msgstr "Kısa yol tuşu : Shift+Return"
 
 #: client/gui-gtk-3.22/gui_main.c:1499 client/gui-gtk-4.0/gui_main.c:1430
 #: client/gui-qt/menu.cpp:1537 client/gui-qt/pages.cpp:726
 #, fuzzy
 msgid "?noun:View"
-msgstr "_Görünüm"
+msgstr "?noun:Görünüm"
 
 #: client/gui-gtk-3.22/gui_main.c:1622 client/gui-gtk-4.0/gui_main.c:1565
 msgid "Chat"
@@ -5678,7 +5678,7 @@ msgstr "Terhis et"
 
 #: client/gui-gtk-3.22/menu.c:564 client/gui-gtk-4.0/menu.c:720
 msgid "_Build City"
-msgstr "Şehir İnşa _Et"
+msgstr "_Şehir İnşa Et"
 
 #: client/gui-gtk-3.22/menu.c:566 client/gui-gtk-4.0/menu.c:723
 msgid "_Auto Settler"
@@ -8347,7 +8347,7 @@ msgstr "Yol Yap"
 #: client/gui-qt/menu.cpp:1315
 #, fuzzy
 msgid "Build Path"
-msgstr "Hava Üssü Yap"
+msgstr "Ulaşım İnşası"
 
 #: client/gui-qt/menu.cpp:1316 client/gui-qt/menu.cpp:2208
 #: client/gui-qt/menu.cpp:2211 client/gui-qt/shortcuts.cpp:122
