@@ -27,157 +27,157 @@ msgstr ""
 #: tools/ruledit/req_vec_fix.cpp:191 tools/ruledit/requirers_dlg.cpp:43
 #: tools/ruledit/req_edit.cpp:135
 msgid "Close"
-msgstr ""
+msgstr "Kapalı"
 
 #: tools/ruledit/edit_impr.cpp:51 tools/ruledit/edit_utype.cpp:50
 msgid "Build Cost"
-msgstr ""
+msgstr "Yapı Maliyeti"
 
 #: tools/ruledit/edit_impr.cpp:62
 msgid "Upkeep"
-msgstr ""
+msgstr "Bakım Masrafı"
 
 #: tools/ruledit/edit_impr.cpp:72
 msgid "Genus"
-msgstr ""
+msgstr "Cins"
 
 #: tools/ruledit/edit_impr.cpp:90 tools/ruledit/edit_terrain.cpp:69
 #: tools/ruledit/edit_utype.cpp:91
 msgid "Graphics tag"
-msgstr ""
+msgstr "Grafik Etiketi"
 
 #: tools/ruledit/edit_impr.cpp:99 tools/ruledit/edit_terrain.cpp:78
 #: tools/ruledit/edit_utype.cpp:100
 msgid "Alt graphics tag"
-msgstr ""
+msgstr "Alt grafik Etiketi"
 
 #: tools/ruledit/edit_terrain.cpp:49
 msgid "Move Cost"
-msgstr ""
+msgstr "Maliyeti Taşı"
 
 #: tools/ruledit/edit_terrain.cpp:59
 msgid "Defense Bonus %"
-msgstr ""
+msgstr "Savunma Bonusu %"
 
 #: tools/ruledit/edit_utype.cpp:61
 msgid "Attack Strength"
-msgstr ""
+msgstr "Saldırı Gücü"
 
 #: tools/ruledit/edit_utype.cpp:71
 msgid "Defense Strength"
-msgstr ""
+msgstr "Savunma Gücü"
 
 #: tools/ruledit/edit_utype.cpp:81
 msgid "Move Rate"
-msgstr ""
+msgstr "Hareket Mesafesi "
 
 #: tools/ruledit/effect_edit.cpp:78 tools/ruledit/req_edit.cpp:66
 msgid "Type:"
-msgstr ""
+msgstr "Tür"
 
 #: tools/ruledit/effect_edit.cpp:92 tools/ruledit/req_edit.cpp:84
 msgid "Value:"
-msgstr ""
+msgstr "Değer"
 
 #: tools/ruledit/effect_edit.cpp:115
 msgid "Comment"
-msgstr ""
+msgstr "Yorum"
 
 #: tools/ruledit/effect_edit.cpp:121 tools/ruledit/tab_building.cpp:90
 #: tools/ruledit/tab_extras.cpp:84 tools/ruledit/tab_good.cpp:85
 #: tools/ruledit/tab_gov.cpp:84 tools/ruledit/tab_multiplier.cpp:84
 #: tools/ruledit/tab_unit.cpp:87
 msgid "Requirements"
-msgstr ""
+msgstr "Gereksinimler"
 
 #: tools/ruledit/effect_edit.cpp:125
 msgid "Add Effect"
-msgstr ""
+msgstr "Efekt Ekle"
 
 #: tools/ruledit/effect_edit.cpp:129
 msgid "Delete Effect"
-msgstr ""
+msgstr "Efekt Sil"
 
 #: tools/ruledit/effect_edit.cpp:206
 #, c-format
 msgid "Effect #%d: %s"
-msgstr ""
+msgstr "Efekt #%d: %s"
 
 #: tools/ruledit/effect_edit.cpp:315
 #, c-format
 msgid "%s effect #%d"
-msgstr ""
+msgstr "%s efekt #%d"
 
 #. TRANS: Trying to fix a requirement vector problem but can't find
 #. * any.
 #: tools/ruledit/req_vec_fix.cpp:80
 msgid "No problem found"
-msgstr ""
+msgstr "Hiçbir sorun bulunmadı"
 
 #. TRANS: Trying to fix a requirement vector problem but
 #. * don't know how to solve it.
 #: tools/ruledit/req_vec_fix.cpp:93
 #, c-format
 msgid "Don't know how to fix %s: %s"
-msgstr ""
+msgstr " %s: %s nin nasıl düzeltileceğini bilmiyorum "
 
 #. TRANS: Apply the selected requirement vector problem fix.
 #: tools/ruledit/req_vec_fix.cpp:121
 msgid "Accept selected solution"
-msgstr ""
+msgstr "Seçili çözümü kabul et"
 
 #: tools/ruledit/req_vec_fix.cpp:159
 msgid "Requirement problem"
-msgstr ""
+msgstr "Gereksinim sorunu"
 
 #. TRANS: Button text in the requirement vector fixer dialog. Cancels all
 #. * changes done since the last time all accepted changes were done.
 #: tools/ruledit/req_vec_fix.cpp:169
 msgid "Undo all"
-msgstr ""
+msgstr "Tümünü Geri al"
 
 #. TRANS: Tool tip text in the requirement vector fixer dialog. Cancels
 #. * all changes done since the last time all accepted changes were done.
 #: tools/ruledit/req_vec_fix.cpp:172
-msgid ""
+msgid "Bir önceki onayınızdan beri yapılan tüm değişiklikler"
 "Undo all accepted solutions since you started or since last time you ordered "
 "all accepted changes done."
-msgstr ""
+msgstr "Tüm değişiklikler kabul edildi."
 
 #. TRANS: Perform all the changes to the ruleset item the user has
 #. * accepted. Button text in the requirement vector fixer dialog.
 #: tools/ruledit/req_vec_fix.cpp:180
 msgid "Do accepted changes"
-msgstr ""
+msgstr "Kabul edilen değişiklikleri yap"
 
 #. TRANS: Perform all the changes to the ruleset item the user has
 #. * accepted. Tool tip text in the requirement vector fixer dialog.
 #: tools/ruledit/req_vec_fix.cpp:183
-msgid ""
+msgid "Kabul edildi."
 "Perform all the changes you have accepted to the ruleset item. You can then "
 "fix the current issue by hand and come back here to find the next issue."
-msgstr ""
+msgstr "Mevcut sorunu düzeltin yada bir sonraki sırayı bulmak için buraya geri dönün"
 
 #: tools/ruledit/req_vec_fix.cpp:279
 msgid "Unable to apply solution"
-msgstr ""
+msgstr "Seçtiğiniz çözüm uygulanamıyor"
 
 #. TRANS: requirement vector fix failed to apply
 #: tools/ruledit/req_vec_fix.cpp:283
 msgid "Failed to apply solution %1 for %2 to %3."
-msgstr ""
+msgstr "Başarısız. Seçtiğiniz çözüm uygulanamadı %1 , %2 ve %3"
 
 #: tools/ruledit/requirers_dlg.cpp:57
 #, c-format
 msgid "Removing %s"
-msgstr ""
+msgstr "Kaldırılıyor %s"
 
 #. TRANS: %s could be any of a number of ruleset items (e.g., tech,
 #. * unit type, ...
 #: tools/ruledit/requirers_dlg.cpp:72
 #, c-format
 msgid "Needed by %s"
-msgstr ""
+msgstr "%s tarafından ihtiyaç duyuluyor"
 
 #. TRANS: 'Failed to load comments-x.y.txt' where x.y is
 #. * freeciv version
@@ -286,19 +286,19 @@ msgstr "_Teknolojiler"
 
 #: tools/ruledit/ruledit_qt.cpp:173
 msgid "Buildings"
-msgstr ""
+msgstr "Binalar"
 
 #: tools/ruledit/ruledit_qt.cpp:175
 msgid "Units"
-msgstr ""
+msgstr "Birimler"
 
 #: tools/ruledit/ruledit_qt.cpp:177
 msgid "Goods"
-msgstr ""
+msgstr "Mallar"
 
 #: tools/ruledit/ruledit_qt.cpp:179
 msgid "Governments"
-msgstr ""
+msgstr "Hükümetler"
 
 #: tools/ruledit/ruledit_qt.cpp:181
 msgid "Enablers"
@@ -306,11 +306,11 @@ msgstr ""
 
 #: tools/ruledit/ruledit_qt.cpp:183
 msgid "Extras"
-msgstr ""
+msgstr "Ekstralar"
 
 #: tools/ruledit/ruledit_qt.cpp:185
 msgid "Terrains"
-msgstr ""
+msgstr "Araziler"
 
 #: tools/ruledit/ruledit_qt.cpp:187
 msgid "Multipliers"
@@ -322,7 +322,7 @@ msgstr ""
 
 #: tools/ruledit/ruledit_qt.cpp:191
 msgid "Nations"
-msgstr ""
+msgstr "Milletler"
 
 #: tools/ruledit/ruledit_qt.cpp:200
 #, fuzzy
@@ -331,16 +331,16 @@ msgstr "Freeciv'e Hoş Geldiniz"
 
 #: tools/ruledit/ruledit_qt.cpp:247
 msgid "Old ruleset to a new format"
-msgstr ""
+msgstr "Eski kuralları yeni formata ayarla"
 
 #: tools/ruledit/ruledit_qt.cpp:250
 #, fuzzy
 msgid "Ruleset loaded"
-msgstr "Çöl"
+msgstr "Kural seti yüklendi"
 
 #: tools/ruledit/ruledit_qt.cpp:273
 msgid "Ruleset loading failed!"
-msgstr ""
+msgstr "Kural seti yüklemesi başarısız oldu!"
 
 #: tools/ruledit/ruledit_qt.cpp:451
 #, fuzzy
@@ -349,11 +349,11 @@ msgstr "Freeciv Sunucuları Listesi"
 
 #: tools/ruledit/ruledit_qt.cpp:484
 msgid "Are you sure you want to quit?"
-msgstr ""
+msgstr "Gerçekten çıkmak istiyor musun?"
 
 #: tools/ruledit/ruledit_qt.cpp:488
 msgid "Quit?"
-msgstr ""
+msgstr "Çıkmak?"
 
 #: tools/ruledit/tab_building.cpp:67 tools/ruledit/tab_counters.cpp:82
 #: tools/ruledit/tab_extras.cpp:65 tools/ruledit/tab_good.cpp:66
@@ -384,7 +384,7 @@ msgstr "Oyuncu Adı :"
 #: tools/ruledit/tab_unit.cpp:67 tools/ruledit/tab_unit.cpp:77
 #: tools/ruledit/tab_unit.cpp:150 tools/ruledit/tab_unit.cpp:151
 msgid "None"
-msgstr ""
+msgstr "Hiçbiri"
 
 #: tools/ruledit/tab_building.cpp:75 tools/ruledit/tab_counters.cpp:89
 #: tools/ruledit/tab_extras.cpp:73 tools/ruledit/tab_good.cpp:74
@@ -397,18 +397,18 @@ msgstr "Ad"
 #: tools/ruledit/tab_building.cpp:86 tools/ruledit/tab_terrains.cpp:87
 #: tools/ruledit/tab_unit.cpp:83
 msgid "Edit Values"
-msgstr ""
+msgstr "Değerleri Düzenle"
 
 #: tools/ruledit/tab_building.cpp:94 tools/ruledit/tab_counters.cpp:134
 #: tools/ruledit/tab_extras.cpp:88 tools/ruledit/tab_good.cpp:89
 #: tools/ruledit/tab_gov.cpp:88 tools/ruledit/tab_tech.cpp:109
 #: tools/ruledit/tab_terrains.cpp:91 tools/ruledit/tab_unit.cpp:91
 msgid "Effects"
-msgstr ""
+msgstr "Etkiler"
 
 #: tools/ruledit/tab_building.cpp:98
 msgid "Add Building"
-msgstr ""
+msgstr "Bina Ekle"
 
 #: tools/ruledit/tab_building.cpp:103
 #, fuzzy
@@ -417,23 +417,23 @@ msgstr "Hedef şablonu silinsin?"
 
 #: tools/ruledit/tab_building.cpp:188
 msgid "A building with that rule name already exists!"
-msgstr ""
+msgstr "Bu kural adına sahip bir bina zaten var!"
 
 #: tools/ruledit/tab_counters.cpp:100
 msgid "Default Value"
-msgstr ""
+msgstr "Varsaylan Değer"
 
 #: tools/ruledit/tab_counters.cpp:109
 msgid "Checkpoint"
-msgstr ""
+msgstr "Kontrol noktası"
 
 #: tools/ruledit/tab_counters.cpp:121
 msgid "Behavior"
-msgstr ""
+msgstr "Davranış"
 
 #: tools/ruledit/tab_counters.cpp:138
 msgid "Add Counter"
-msgstr ""
+msgstr "Sayaç Ekle"
 
 #: tools/ruledit/tab_counters.cpp:141
 #, fuzzy
@@ -446,19 +446,19 @@ msgstr ""
 
 #: tools/ruledit/tab_enablers.cpp:113
 msgid "Type"
-msgstr ""
+msgstr "Tip"
 
 #: tools/ruledit/tab_enablers.cpp:137
 msgid "Actor Requirements"
-msgstr ""
+msgstr "Aktör Gereksinimleri"
 
 #: tools/ruledit/tab_enablers.cpp:144
 msgid "Target Requirements"
-msgstr ""
+msgstr "Hedef Gereksinimleri"
 
 #: tools/ruledit/tab_enablers.cpp:151
 msgid "Add Enabler"
-msgstr ""
+msgstr "Etknleştirici Ekle"
 
 #: tools/ruledit/tab_enablers.cpp:156
 #, fuzzy
@@ -473,7 +473,7 @@ msgstr ""
 #. TRANS: Fix an error in an action enabler.
 #: tools/ruledit/tab_enablers.cpp:227
 msgid "Repair Enabler"
-msgstr ""
+msgstr "Onarım Etkinleştirici"
 
 #. TRANS: Fix a non error issue in an action enabler.
 #: tools/ruledit/tab_enablers.cpp:232
@@ -495,7 +495,7 @@ msgstr ""
 
 #: tools/ruledit/tab_extras.cpp:92
 msgid "Add Extra"
-msgstr ""
+msgstr "Ekstra Ekle"
 
 #: tools/ruledit/tab_extras.cpp:97
 #, fuzzy
@@ -508,12 +508,12 @@ msgstr ""
 
 #: tools/ruledit/tab_good.cpp:93
 msgid "Add Good"
-msgstr ""
+msgstr "Mal Ekle "
 
 #: tools/ruledit/tab_good.cpp:98
 #, fuzzy
 msgid "Remove this Good"
-msgstr "Hedef şablonu silinsin?"
+msgstr "Mal silinsin mi?"
 
 #: tools/ruledit/tab_good.cpp:184
 msgid "A good with that rule name already exists!"
@@ -526,11 +526,11 @@ msgstr ""
 #: tools/ruledit/tab_gov.cpp:97
 #, fuzzy
 msgid "Remove this Government"
-msgstr "Hedef şablonu silinsin?"
+msgstr "Devlet silinsin mi?"
 
 #: tools/ruledit/tab_gov.cpp:183
 msgid "A government with that rule name already exists!"
-msgstr ""
+msgstr "O isimde bir Hükümet var!"
 
 #: tools/ruledit/tab_misc.cpp:74
 #, fuzzy
@@ -562,7 +562,7 @@ msgstr ""
 #: tools/ruledit/tab_misc.cpp:120
 #, fuzzy
 msgid "Save now"
-msgstr "_Senaryo Oyunu Başlat"
+msgstr "Şimdi Kaydet"
 
 #: tools/ruledit/tab_misc.cpp:124
 msgid "Description from file"
@@ -582,7 +582,7 @@ msgstr ""
 
 #: tools/ruledit/tab_misc.cpp:144
 msgid "All Effects"
-msgstr ""
+msgstr "Tüm Efektler"
 
 #: tools/ruledit/tab_misc.cpp:151
 msgid "?stat:Terrains"
